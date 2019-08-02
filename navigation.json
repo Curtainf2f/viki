@@ -7,27 +7,10 @@
             "toc": false
         },
         {
-            "text": "Get Started",
-            "target": "get_started.md"
-        },
-        {
-            "text": "Downloads",
-            "target": "downloads.md",
-            "toc": false
-        },
-        {
-            "text": "Markdown",
-            "target": "markdown.md"
-        },
-        {
-            "text": "Documentation",
+            "text": "ACM",
             "target": "docs/_vnote.json",
             "navi": true,
             "navi_index": "Users/Welcome.md"
-        },
-        {
-            "text": "Examples",
-            "target": "examples.md"
         }
     ],
     "actions":

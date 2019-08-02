@@ -1,7 +1,3 @@
-# Welcome to Viki's Documentation
+# 这里记录集训时的知识点随笔
 
-![](_v_images/20181117140605635_18028.svg =256x)
-
-Viki is a simple Wiki page in Markdown, which recognizes notebooks of VNote.
-
-Viki is open source and available on [GitHub](https://github.com/tamlok/viki).
+![](20181117140605635_18028.svg "a")
