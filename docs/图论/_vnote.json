@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "网络流"
+        },
+        {
+            "name": "二分图"
         }
     ],
     "version": "1"
