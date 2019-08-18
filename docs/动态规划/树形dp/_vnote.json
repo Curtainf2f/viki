@@ -1,0 +1,24 @@
+{
+    "created_time": "2019-08-18T01:57:24Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-18T02:20:24Z",
+            "modified_time": "2019-08-18T02:20:33Z",
+            "name": "acwing285没有上司的舞会.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "分组背包"
+        },
+        {
+            "name": "不定根（换根）"
+        }
+    ],
+    "version": "1"
+}
