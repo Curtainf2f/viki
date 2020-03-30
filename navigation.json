@@ -25,7 +25,7 @@
             "text": "项目学习",
             "target": "project/_vnote.json",
             "navi": true,
-            "navi-index": "项目搜寻网址/网址.md"
+            "navi_index": "项目搜寻网址/网址.md"
         },
         {
             "text": "概念理论",
