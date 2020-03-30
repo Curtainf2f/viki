@@ -13,6 +13,15 @@
         }
     ],
     "sub_directories": [
+        {
+            "name": "inline 内联"
+        },
+        {
+            "name": "虚函数"
+        },
+        {
+            "name": "抽象类与纯虚函数"
+        }
     ],
     "version": "1"
 }
