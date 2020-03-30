@@ -7,11 +7,23 @@
             "toc": false
         },
         {
-            "text": "ACM",
-            "target": "docs/_vnote.json",
+            "text": "算法",
+            "target": "algorithm/_vnote.json",
             "navi": true,
-            "navi_index": "Users/Welcome.md"
-        }
+            "navi_index": "Welcome.md"
+        },
+		{
+            "text": "比赛真题",
+            "target": "contest/_vnote.json",
+            "navi": true,
+            "navi_index": "Welcome.md"
+		},
+		{
+            "text": "语言特性",
+            "target": "language/_vnote.json",
+            "navi": true,
+            "navi_index": "Welcome.md"
+		}
     ],
     "actions":
     [
