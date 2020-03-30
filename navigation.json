@@ -14,15 +14,24 @@
 		{
             "text": "比赛真题",
             "target": "contest/_vnote.json"
+			"navi": true
 		},
 		{
-            "text": "语言特性",
+            "text": "编程语言特性",
             "target": "language/_vnote.json"
+			"navi": true
 		},
 		{
-            "text": "语言特性",
-            "target": "language/_vnote.json"
-		}
+            "text": "项目学习",
+            "target": "project/_vnote.json"
+			"navi": true
+			"navi-index": "项目搜寻网址/网址.md"
+		},
+		{
+            "text": "概念理论",
+            "target": "concept/_vnote.json"
+			"navi": true
+		},
     ],
     "actions":
     [
