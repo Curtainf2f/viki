@@ -9,14 +9,19 @@
         {
             "text": "算法",
             "target": "algorithm/_vnote.json",
+			"navi": true
         },
 		{
             "text": "比赛真题",
-            "target": "contest/_vnote.json",
+            "target": "contest/_vnote.json"
 		},
 		{
             "text": "语言特性",
-            "target": "language/_vnote.json",
+            "target": "language/_vnote.json"
+		},
+		{
+            "text": "语言特性",
+            "target": "language/_vnote.json"
 		}
     ],
     "actions":
