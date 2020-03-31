@@ -13,6 +13,9 @@
         }
     ],
     "sub_directories": [
+        {
+            "name": "动态字符串(SDS)"
+        }
     ],
     "version": "1"
 }
