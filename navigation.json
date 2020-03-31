@@ -17,8 +17,8 @@
             "navi": true
         },
         {
-            "text": "编程语言特性",
-            "target": "language/_vnote.json",
+            "text": "基础",
+            "target": "basics/_vnote.json",
             "navi": true
         },
         {
@@ -26,11 +26,6 @@
             "target": "project/_vnote.json",
             "navi": true,
             "navi_index": "项目搜寻网址/网址.md"
-        },
-        {
-            "text": "概念理论",
-            "target": "concept/_vnote.json",
-            "navi": true
         }
     ],
     "actions":
