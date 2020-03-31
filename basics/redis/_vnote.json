@@ -15,6 +15,12 @@
     "sub_directories": [
         {
             "name": "动态字符串(SDS)"
+        },
+        {
+            "name": "链表"
+        },
+        {
+            "name": "字典"
         }
     ],
     "version": "1"
