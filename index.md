@@ -1,7 +1,5 @@
 # 欢迎
 
-这里是DarkScoCu的Vnote笔记，点击上面的ACM进入笔记目录。
-
 ![](头像.jpg =240x)
 
 [Github](https://github.com/Curtainf2f) | [Cnblogs](https://www.cnblogs.com/DarkScoCu/) 
