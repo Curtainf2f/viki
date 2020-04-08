@@ -1,19 +1,13 @@
 {
     "attachment_folder": "_v_attachments",
-    "created_time": "2020-03-30T07:14:33Z",
+    "created_time": "2020-04-08T09:25:54Z",
     "files": [
     ],
     "image_folder": "",
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "C++"
-        },
-        {
-            "name": "redis"
-        },
-        {
-            "name": "python"
+            "name": "leetcode"
         }
     ],
     "tags": [

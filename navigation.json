@@ -26,6 +26,11 @@
             "target": "project/_vnote.json",
             "navi": true,
             "navi_index": "项目搜寻网址/网址.md"
+        },
+        {
+            "text": "练习",
+            "target": "project/_vnote.json",
+            "navi": true
         }
     ],
     "actions":
