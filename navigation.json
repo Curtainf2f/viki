@@ -29,7 +29,7 @@
         },
         {
             "text": "练习",
-            "target": "project/_vnote.json",
+            "target": "practice/_vnote.json",
             "navi": true
         }
     ],
