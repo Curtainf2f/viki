@@ -8,6 +8,9 @@
     "sub_directories": [
         {
             "name": "leetcode"
+        },
+        {
+            "name": "nowcoder"
         }
     ],
     "tags": [
