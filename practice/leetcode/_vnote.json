@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "每日一题"
+        },
+        {
+            "name": "周赛"
         }
     ],
     "version": "1"
